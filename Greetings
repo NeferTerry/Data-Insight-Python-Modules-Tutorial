@@ -1,4 +1,0 @@
-name_input = input('Name: ')
-def greeter(name):
-    return 'Hello ' + name + " I wanna play a game!"
-print(greeter(name_input))
